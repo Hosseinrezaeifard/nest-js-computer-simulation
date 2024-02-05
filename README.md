@@ -23,7 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
+Just a simple project I've created to understand Dependency Injection in a nest.js world! YAY :)
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
